@@ -20,3 +20,5 @@ while True:
             print("A MULTIPLICAÇÃO dos dois números é: ", valor1 * valor2)
     except:
         print("Favor digitar um número válido") 
+
+        "teste"
